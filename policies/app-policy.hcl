@@ -10,3 +10,4 @@ path "database/creds/payment-role" {
 path "sys/renew/*" {
   capabilities = ["update"]
 }
+
